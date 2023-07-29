@@ -2,8 +2,8 @@ global.d = new Date()
 global.calender = d.toLocaleDateString('id')
 
 global.prefix = "." 
-global.ownNumb = "6283833387450"
-global.ownName = "Rxhl" 
+global.ownNumb = "923237045919"
+global.ownName = "Arslan_Modz" 
 
 global.autOwn = "req(62-8S57547ms11).287p"
 let file = require.resolve(__filename)
