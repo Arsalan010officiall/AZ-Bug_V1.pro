@@ -1,5 +1,5 @@
 {
-	"name": "rxhl",
+	"name": "AZBug",
 	"version": "3.1.0",
 	"description": "up",
 	"main": "index.js",
@@ -11,7 +11,7 @@
 		"whiskeysockets",
 		"multi-device"
 	],
-	"author": "rxhl",
+	"author": "AZBug",
 	"license": "MIT",
 	"dependencies": {
 		"@whiskeysockets/baileys" : "^6.3.0",
