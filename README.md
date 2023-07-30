@@ -5,5 +5,5 @@
   # AZ-Bug_V1.pro
 
 <p align="center"> 
-  <a href="https://github.com/Shizu-Hub"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=OWNER+TERA+BAAP+;Arslan-MD-BOT+ (+923237045919)+;GHOOR+NAA+BOT+CHALA+LEY;OR+BOT+SE+PANGE+NAA+LENA+:v+%F0%9F%91%8B" height="70px"
+  <a href="https://github.com/Shizu-Hub"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=OWNER+TERA+BAAP+;AZ-Bug_V1.pro+ (+923237045919)+;GHOOR+NAA+BOT+CHALA+LEY;OR+BOT+SE+PANGE+NAA+LENA+:😂😂😂+%F0%9F%91%8B" height="70px"
 </p>
